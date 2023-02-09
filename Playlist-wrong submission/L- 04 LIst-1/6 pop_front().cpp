@@ -12,7 +12,7 @@ int main()
 
 
     cout<< "FOR PRINT : loop use kore "<<endl;
-    li.pop_front();
+    li.pop_front();  // 1st element use hobe na cz pop_front use korci.
     for(auto it: li)
     {
         cout<<it<< "  ";
