@@ -14,7 +14,10 @@ li.merge(li2);   //li er moddhe li2 merge hoye jabe ekta list er moto kore.
 for(auto it: li) cout<<it<< " ";
 cout<<endl;
 
+//afteer merge li2 in li.there will no availabe value in li.
+//let me check by size : 
 
+cout<< "now li2 size is : "<<li2.size()<<endl;
 
     return 0;
 }
