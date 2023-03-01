@@ -19,7 +19,6 @@ cout<<endl;
 
 cout<<li.front()<<endl;
 
-cout<<li.back()<<endl;
 
 
 }
