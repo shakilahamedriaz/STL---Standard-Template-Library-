@@ -9,7 +9,7 @@ int main(){
 
        int n;
        cout<<"Enter array elements size: ";
-       cin>>n;
+       cin>>n;  
 
        cout<< "Enter the elements: ";
        //[1,3,4,3,4,3]
