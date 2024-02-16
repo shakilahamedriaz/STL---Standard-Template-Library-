@@ -19,5 +19,9 @@ int main()
     cout<< "Lcm of 12, 18 : ";
     cout<< 12*18/gcd(12,18)<<endl;
 
+    //invuild function of gcd:
+
+    cout<<__gcd(12, 18)<<endl;
+
     return 0;
 }
